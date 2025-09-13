@@ -18,3 +18,5 @@ The player can move tiles by clicking on them, shuffle the board randomly, or se
 3. Run the game:  
    ```bash
    python 8puzzlegame.py
+
+![Game screenshot](8puzzlegame.jpg)
