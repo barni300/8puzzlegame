@@ -14,7 +14,7 @@ The player can move tiles by clicking on them, shuffle the board randomly, or se
 
 ## 🚀 How to Run
 1. Install Python 3.  
-2. Clone this repository or download the `puzzle_game.py` file.  
+2. Clone this repository or download the `8puzzlegame.py` file.  
 3. Run the game:  
    ```bash
-   python puzzle_game.py
+   python 8puzzlegame.py
